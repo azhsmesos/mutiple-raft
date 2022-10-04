@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88972ebe-3ea0-4c10-beff-3c5132e2795b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KotlinMultiplatform">
+    <allAvailableExecutables />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="yx7ha3ry" />
+  </component>
+  <component name="ProjectId" id="2FWZU1xoNxzOgkYvrT0nvCLyr6x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/github/raft/transport/netty" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTHome" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/github/raft/transport/netty" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/github/raft/transport/netty" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/github/raft/transport/api" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/github/raft/transport/client/connection" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/github/raft/transport" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AppendLogFileTest.TestFindCommandLog">
+    <configuration name="RaftApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.raft.demo.RaftApplication" />
+      <module name="mutiply-raft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.raft.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppendLogFileTest.TestAppendLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mutiply-raft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.raft.file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.raft.file" />
+      <option name="MAIN_CLASS_NAME" value="com.github.raft.file.AppendLogFileTest" />
+      <option name="METHOD_NAME" value="TestAppendLog" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppendLogFileTest.TestFindCommandLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mutiply-raft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.raft.file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.raft.file" />
+      <option name="MAIN_CLASS_NAME" value="com.github.raft.file.AppendLogFileTest" />
+      <option name="METHOD_NAME" value="TestFindCommandLog" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppendLogFileTest.TestGetLastupToDateCommandLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mutiply-raft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.raft.file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.raft.file" />
+      <option name="MAIN_CLASS_NAME" value="com.github.raft.file.AppendLogFileTest" />
+      <option name="METHOD_NAME" value="TestGetLastupToDateCommandLog" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppendLogFileTest.TestTobytes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mutiply-raft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.raft.file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.raft.file" />
+      <option name="MAIN_CLASS_NAME" value="com.github.raft.file.AppendLogFileTest" />
+      <option name="METHOD_NAME" value="TestTobytes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppendLogFileTest.TestFindCommandLog" />
+        <item itemvalue="JUnit.AppendLogFileTest.TestAppendLog" />
+        <item itemvalue="JUnit.AppendLogFileTest.TestTobytes" />
+        <item itemvalue="JUnit.AppendLogFileTest.TestGetLastupToDateCommandLog" />
+        <item itemvalue="Application.RaftApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88972ebe-3ea0-4c10-beff-3c5132e2795b" name="Changes" comment="" />
+      <created>1664609814711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664609814711</updated>
+      <workItem from="1664609817136" duration="86206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
