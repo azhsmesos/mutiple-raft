@@ -160,7 +160,7 @@ public class AppendLogFile implements Closeable {
     private CommandLog findCommandLog(IndexFile.Offset offset) {
         try (FileInputStream inputStream = new FileInputStream(rootPath + "/" + offset.getLogFileName() + SUFFIX)) {
             inputStream.getChannel().position(offset.getPhysicsOffset());
-            ByteBuffer buffer = ByteBuffer.allocate(4096);
+            ByteBuffer buffer = ByteBuffer.allocate(2000);
             int len;
             byte[] bytes = new byte[8];
             loop:

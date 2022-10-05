@@ -9,5 +9,8 @@
         <module name="mutiply-raft" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mutiply-raft" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>

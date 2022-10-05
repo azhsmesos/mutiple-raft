@@ -60,7 +60,7 @@ public class AppendLogFileTest {
         String rootPath = "src/main/resources/tmp";
         String logFileName = "data";
         AppendLogFile file = new AppendLogFile(rootPath, logFileName);
-        CommandLog log = file.findCommandLog(130000);
+        CommandLog log = file.findCommandLog(2000);
         System.out.println(log.toSaveString());
     }
 

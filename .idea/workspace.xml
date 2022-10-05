@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88972ebe-3ea0-4c10-beff-3c5132e2795b" name="Changes" comment="" />
+    <list default="true" id="88972ebe-3ea0-4c10-beff-3c5132e2795b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/raft/core/common/file/AppendLogFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/raft/core/common/file/AppendLogFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tmp/data-2022-10-04.0-65535.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tmp/data-2022-10-04.65536-131071.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tmp/data-2022-10-04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/github/raft/file/AppendLogFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/github/raft/file/AppendLogFileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tmp/data-2022-10-04.0-65535.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tmp/data-2022-10-04.65536-131071.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tmp/data-2022-10-04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mutiply-raft-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/mutiply-raft-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,10 +162,22 @@
       <option name="presentableId" value="Default" />
       <updated>1664609814711</updated>
       <workItem from="1664609817136" duration="86559000" />
+      <workItem from="1664965910567" duration="3792000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
