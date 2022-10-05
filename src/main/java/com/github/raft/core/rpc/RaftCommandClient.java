@@ -90,6 +90,7 @@ public class RaftCommandClient implements VoteListener, Closeable {
                         if (leaderAppendEntriesClient.sendHeartbeatCommand()) {
                             resetHeartbeatTimer();
                         }
+                        // toto
                     });
         }
     }
